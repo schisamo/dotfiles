@@ -1,0 +1,2 @@
+#compdef cr
+_files -W $CHEF_REPOS -/
