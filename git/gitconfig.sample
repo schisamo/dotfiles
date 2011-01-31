@@ -1,0 +1,24 @@
+[user]
+  name = Seth Chisamore
+  email = 
+[github]
+  user = schisamo
+  token = 
+[alias]
+  datetag = !git tag `date \"+%Y%m%d%H%M\"`
+  co = checkout
+  s = status --short
+[color]
+  ui = auto
+  diff = auto
+  status = auto
+  branch = auto
+[core]
+  excludesfile = ~/.gitignore
+  #editor = mate -w
+[branch]
+  autosetuprebase = always
+[mergetool]
+  keepBackup = false
+  tool = opendiff
+  summary = true

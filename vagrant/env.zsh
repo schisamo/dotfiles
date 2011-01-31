@@ -1,0 +1,1 @@
+export VAGRANT_BOX="ubuntu10.04-gems"
