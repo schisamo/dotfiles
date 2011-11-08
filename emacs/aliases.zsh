@@ -1,0 +1,1 @@
+alias emacs="/usr/local/Cellar/emacs/23.3a/Emacs.app/Contents/MacOS/Emacs -nw"
