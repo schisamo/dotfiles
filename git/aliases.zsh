@@ -1,4 +1,5 @@
 alias git=hub
+function git(){hub "$@"}
 
 # The rest of my fun git aliases
 alias gl='git pull --rebase --prune'
